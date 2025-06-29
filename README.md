@@ -10,4 +10,4 @@ Install BurpProfectional .jar file from same burppro directory
 $ java -jar  BurpLoaderKeygen.jar
 ```
 
-![Tutorial] https://github.com/nithin644/burppro/blob/main/Screencast%20From%202025-06-29%2018-35-59.mp4
+![Tutorial] https://github.com/user-attachments/assets/e74a1d15-98d2-4d7b-a3bb-eed99e9af528
