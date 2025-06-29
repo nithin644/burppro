@@ -10,4 +10,8 @@ Install BurpProfectional .jar file from same burppro directory
 $ java -jar  BurpLoaderKeygen.jar
 ```
 
-![Tutorial] https://github.com/user-attachments/assets/e74a1d15-98d2-4d7b-a3bb-eed99e9af528
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/e74a1d15-98d2-4d7b-a3bb-eed99e9af528" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
