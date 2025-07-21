@@ -12,4 +12,7 @@ $ java -jar  BurpLoaderKeygen.jar
 
 ### Video tutorial 
   [Video] https://github.com/user-attachments/assets/e74a1d15-98d2-4d7b-a3bb-eed99e9af528
+  
+
+  [Article]  https://medium.com/@nithun618/install-burp-suite-professional-on-linux-for-free-e3c3598e09a9
 
